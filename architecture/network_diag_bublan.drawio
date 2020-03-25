@@ -1,9 +1,12 @@
-<mxfile host="app.diagrams.net" modified="2020-03-25T22:42:59.791Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36" etag="uDp5-TCz5GKD15Dm_C_0" version="12.9.3" type="github">
+<mxfile host="app.diagrams.net" modified="2020-03-25T22:53:31.820Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36" etag="fOztdmWFxTcFozppZbAo" version="12.9.3" type="github">
   <diagram id="mYLeq-nyKpzClfBrtyMi" name="Page-1">
-    <mxGraphModel dx="1557" dy="2409" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="901" dy="992" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="jhTQluIwvFNyfBxd88vz-61" value="&lt;font style=&quot;font-size: 16px&quot;&gt;RAID 6 Storage&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;strokeColor=#d79b00;fillColor=#ffe6cc;align=center;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;fontStyle=1;" parent="1" vertex="1">
+          <mxGeometry x="670" y="650" width="100" height="100" as="geometry" />
+        </mxCell>
         <mxCell id="biianqtAshMLmKHlSj_L-2" value="&lt;font style=&quot;font-size: 16px&quot;&gt;Internet&lt;/font&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#DEDEDE;" parent="1" vertex="1">
           <mxGeometry x="319" y="10" width="120" height="80" as="geometry" />
         </mxCell>
@@ -59,7 +62,7 @@
         <mxCell id="jhTQluIwvFNyfBxd88vz-18" value="switch" style="image;html=1;labelBackgroundColor=#ffffff;image=img/lib/clip_art/networking/Switch_128x128.png;rounded=1;dashed=1;strokeColor=#000000;fillColor=none;align=center;fontSize=16;fontStyle=1;fontColor=#0000FF;" parent="1" vertex="1">
           <mxGeometry x="540" y="520" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="jhTQluIwvFNyfBxd88vz-32" value="" style="group" parent="1" vertex="1" connectable="0">
+        <mxCell id="jhTQluIwvFNyfBxd88vz-32" value="" style="group;spacing=2;spacingLeft=0;" parent="1" vertex="1" connectable="0">
           <mxGeometry x="690" y="247.5" width="100" height="85" as="geometry" />
         </mxCell>
         <mxCell id="jhTQluIwvFNyfBxd88vz-52" value="" style="group" parent="jhTQluIwvFNyfBxd88vz-32" vertex="1" connectable="0">
@@ -74,23 +77,23 @@
         <mxCell id="jhTQluIwvFNyfBxd88vz-35" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/272_Raspberry_Pi_logo-128.png" parent="jhTQluIwvFNyfBxd88vz-33" vertex="1">
           <mxGeometry x="30" y="-17" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="jhTQluIwvFNyfBxd88vz-56" value="&lt;br&gt;&lt;ul style=&quot;font-size: 14px&quot;&gt;&lt;li&gt;openvpn&lt;/li&gt;&lt;li&gt;torrent&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=#000000;fillColor=#FFCCCC;align=center;verticalAlign=bottom;whiteSpace=wrap;rounded=1;dashed=1;labelPosition=center;verticalLabelPosition=middle;" parent="jhTQluIwvFNyfBxd88vz-32" vertex="1">
+        <mxCell id="jhTQluIwvFNyfBxd88vz-56" value="&lt;br&gt;&lt;ul style=&quot;font-size: 14px&quot;&gt;&lt;li&gt;openvpn&lt;/li&gt;&lt;li&gt;torrent&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=#82b366;fillColor=#d5e8d4;align=center;verticalAlign=bottom;whiteSpace=wrap;rounded=1;dashed=1;labelPosition=center;verticalLabelPosition=middle;spacingLeft=-40;" parent="jhTQluIwvFNyfBxd88vz-32" vertex="1">
           <mxGeometry y="19" width="100" height="55" as="geometry" />
         </mxCell>
         <mxCell id="jhTQluIwvFNyfBxd88vz-42" value="" style="group;fontSize=14;" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="55" y="253" width="90" height="107" as="geometry" />
+          <mxGeometry x="55" y="253" width="110" height="122" as="geometry" />
         </mxCell>
         <mxCell id="jhTQluIwvFNyfBxd88vz-24" value="" style="group" parent="jhTQluIwvFNyfBxd88vz-42" vertex="1" connectable="0">
-          <mxGeometry y="22" width="90" height="85" as="geometry" />
+          <mxGeometry y="22" width="110" height="90" as="geometry" />
         </mxCell>
         <mxCell id="biianqtAshMLmKHlSj_L-18" value="" style="group" parent="jhTQluIwvFNyfBxd88vz-24" vertex="1" connectable="0">
-          <mxGeometry x="10" width="60" height="33" as="geometry" />
+          <mxGeometry x="10" width="60" height="25.74" as="geometry" />
         </mxCell>
         <mxCell id="biianqtAshMLmKHlSj_L-17" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.hub;" parent="biianqtAshMLmKHlSj_L-18" vertex="1">
-          <mxGeometry y="-5" width="50" height="20" as="geometry" />
+          <mxGeometry y="-3.9000000000000004" width="50" height="15.600000000000001" as="geometry" />
         </mxCell>
-        <mxCell id="biianqtAshMLmKHlSj_L-20" value="&lt;font style=&quot;font-size: 14px&quot;&gt;&amp;nbsp; pi-hole&lt;br&gt;&lt;/font&gt;&lt;blockquote style=&quot;margin: 0px 0px 0px 40px ; border: none ; padding: 0px ; font-size: 14px&quot;&gt;&lt;/blockquote&gt;&lt;ul style=&quot;font-size: 14px&quot;&gt;&lt;li&gt;&lt;span&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;DHCP&lt;/font&gt;&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;DNS&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=#000000;fillColor=#FFCCCC;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=1;dashed=1;" parent="jhTQluIwvFNyfBxd88vz-24" vertex="1">
-          <mxGeometry y="20" width="90" height="60" as="geometry" />
+        <mxCell id="biianqtAshMLmKHlSj_L-20" value="&lt;p style=&quot;line-height: 0%&quot;&gt;&lt;font style=&quot;font-size: 14px ; line-height: 0%&quot;&gt;&amp;nbsp; pi-hole&lt;br&gt;&lt;/font&gt;&lt;/p&gt;&lt;blockquote style=&quot;margin: 0px 0px 0px 40px ; border: none ; padding: 0px ; font-size: 14px&quot;&gt;&lt;/blockquote&gt;&lt;ul style=&quot;font-size: 14px&quot;&gt;&lt;li&gt;&lt;span&gt;&lt;font style=&quot;font-size: 14px ; line-height: 0%&quot;&gt;DHCP&lt;/font&gt;&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;DNS&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;" style="text;html=1;strokeColor=#000000;fillColor=#FFCCCC;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=1;dashed=1;spacingLeft=-4;" parent="jhTQluIwvFNyfBxd88vz-24" vertex="1">
+          <mxGeometry y="15.6" width="100" height="74.4" as="geometry" />
         </mxCell>
         <mxCell id="biianqtAshMLmKHlSj_L-14" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/272_Raspberry_Pi_logo-128.png" parent="jhTQluIwvFNyfBxd88vz-42" vertex="1">
           <mxGeometry x="40" width="30" height="30" as="geometry" />
@@ -101,6 +104,9 @@
         <mxCell id="jhTQluIwvFNyfBxd88vz-9" value="" style="group" parent="jhTQluIwvFNyfBxd88vz-49" vertex="1" connectable="0">
           <mxGeometry y="50" width="170" height="140" as="geometry" />
         </mxCell>
+        <mxCell id="jhTQluIwvFNyfBxd88vz-13" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;strokeColor=#6c8ebf;align=left;fillColor=#dae8fc;" parent="jhTQluIwvFNyfBxd88vz-9" vertex="1">
+          <mxGeometry y="20" width="170" height="120" as="geometry" />
+        </mxCell>
         <mxCell id="jhTQluIwvFNyfBxd88vz-10" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.computer;pointerEvents=1;rounded=1;dashed=1;" parent="jhTQluIwvFNyfBxd88vz-9" vertex="1">
           <mxGeometry x="30" y="30" width="50" height="45" as="geometry" />
         </mxCell>
@@ -110,14 +116,14 @@
         <mxCell id="jhTQluIwvFNyfBxd88vz-12" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.computer;pointerEvents=1;rounded=1;dashed=1;" parent="jhTQluIwvFNyfBxd88vz-9" vertex="1">
           <mxGeometry x="60" y="80" width="50" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="jhTQluIwvFNyfBxd88vz-13" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;strokeColor=#000000;align=left;fillColor=none;" parent="jhTQluIwvFNyfBxd88vz-9" vertex="1">
-          <mxGeometry y="20" width="170" height="120" as="geometry" />
-        </mxCell>
         <mxCell id="jhTQluIwvFNyfBxd88vz-17" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/iconic-1/32/bolt-128.png;rounded=1;dashed=1;strokeColor=#000000;fillColor=none;align=left;" parent="jhTQluIwvFNyfBxd88vz-49" vertex="1">
           <mxGeometry x="61" width="48" height="48" as="geometry" />
         </mxCell>
         <mxCell id="jhTQluIwvFNyfBxd88vz-8" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="140" y="360" width="170" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="jhTQluIwvFNyfBxd88vz-6" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;strokeColor=#6c8ebf;align=left;fillColor=#dae8fc;" parent="jhTQluIwvFNyfBxd88vz-8" vertex="1">
+          <mxGeometry y="20" width="170" height="120" as="geometry" />
         </mxCell>
         <mxCell id="jhTQluIwvFNyfBxd88vz-1" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.computer;pointerEvents=1;rounded=1;dashed=1;" parent="jhTQluIwvFNyfBxd88vz-8" vertex="1">
           <mxGeometry x="30" y="30" width="50" height="45" as="geometry" />
@@ -127,9 +133,6 @@
         </mxCell>
         <mxCell id="jhTQluIwvFNyfBxd88vz-5" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.computer;pointerEvents=1;rounded=1;dashed=1;" parent="jhTQluIwvFNyfBxd88vz-8" vertex="1">
           <mxGeometry x="60" y="80" width="50" height="45" as="geometry" />
-        </mxCell>
-        <mxCell id="jhTQluIwvFNyfBxd88vz-6" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;strokeColor=#000000;align=left;fillColor=none;" parent="jhTQluIwvFNyfBxd88vz-8" vertex="1">
-          <mxGeometry y="20" width="170" height="120" as="geometry" />
         </mxCell>
         <mxCell id="jhTQluIwvFNyfBxd88vz-16" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/iconic-1/32/bolt-128.png;rounded=1;dashed=1;strokeColor=#000000;fillColor=none;align=left;" parent="1" vertex="1">
           <mxGeometry x="302" y="330" width="48" height="48" as="geometry" />
@@ -146,7 +149,7 @@
         <mxCell id="jhTQluIwvFNyfBxd88vz-26" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.hub;" parent="jhTQluIwvFNyfBxd88vz-25" vertex="1">
           <mxGeometry y="-5" width="50" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="jhTQluIwvFNyfBxd88vz-28" value="&lt;font style=&quot;font-size: 14px&quot;&gt;&amp;nbsp; pi-hole&lt;br&gt;&lt;/font&gt;&lt;ul style=&quot;font-size: 14px&quot;&gt;&lt;li&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;DNS&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=#000000;fillColor=#FFCCCC;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=1;dashed=1;" parent="jhTQluIwvFNyfBxd88vz-41" vertex="1">
+        <mxCell id="jhTQluIwvFNyfBxd88vz-28" value="&lt;p style=&quot;line-height: 0%&quot;&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;&amp;nbsp; pi-hole&lt;br&gt;&lt;/font&gt;&lt;/p&gt;&lt;ul style=&quot;font-size: 14px&quot;&gt;&lt;li&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;DNS&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;" style="text;html=1;strokeColor=#000000;fillColor=#FFCCCC;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=1;dashed=1;spacingLeft=-5;" parent="jhTQluIwvFNyfBxd88vz-41" vertex="1">
           <mxGeometry y="41" width="90" height="55" as="geometry" />
         </mxCell>
         <mxCell id="jhTQluIwvFNyfBxd88vz-27" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/272_Raspberry_Pi_logo-128.png" parent="jhTQluIwvFNyfBxd88vz-41" vertex="1">
@@ -163,9 +166,6 @@
         </mxCell>
         <mxCell id="jhTQluIwvFNyfBxd88vz-60" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/crystalproject/128x128/apps/harddrive.png;rounded=1;dashed=1;strokeColor=#000000;fillColor=none;align=left;" parent="1" vertex="1">
           <mxGeometry x="706" y="690" width="58" height="58" as="geometry" />
-        </mxCell>
-        <mxCell id="jhTQluIwvFNyfBxd88vz-61" value="&lt;font style=&quot;font-size: 16px&quot;&gt;RAID 6 Storage&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;strokeColor=#000000;fillColor=none;align=center;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;fontStyle=1;fontColor=#0000FF;" parent="1" vertex="1">
-          <mxGeometry x="670" y="650" width="100" height="100" as="geometry" />
         </mxCell>
         <mxCell id="jhTQluIwvFNyfBxd88vz-63" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.25;entryDx=0;entryDy=0;startArrow=classic;startFill=1;strokeWidth=3;" parent="1" source="jhTQluIwvFNyfBxd88vz-62" target="jhTQluIwvFNyfBxd88vz-18" edge="1">
           <mxGeometry relative="1" as="geometry">
