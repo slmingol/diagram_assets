@@ -1,1 +1,46 @@
-<mxfile host="app.diagrams.net" modified="2020-09-29T17:17:55.727Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" version="13.6.9" etag="wl4OV_x0MwW21qYt8fex" type="github"><diagram id="-Uzkl90RU2_1hvd23aKB">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-09-29T19:13:24.178Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="ihMyEPW6bGr8QFURUPsA" version="13.7.6" type="github">
+  <diagram id="-Uzkl90RU2_1hvd23aKB" name="Page-1">
+    <mxGraphModel dx="832" dy="843" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="7wn4WAuL4QtyOJo-zdiJ-1" value="Parking Lot&lt;br&gt;(PL)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="80" y="140" width="150" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="7wn4WAuL4QtyOJo-zdiJ-2" value="Funnel&lt;br&gt;(F)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="80" y="280" width="150" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="7wn4WAuL4QtyOJo-zdiJ-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7wn4WAuL4QtyOJo-zdiJ-3" target="7wn4WAuL4QtyOJo-zdiJ-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7wn4WAuL4QtyOJo-zdiJ-3" value="Ready to Groom&lt;br&gt;(RG)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="300" y="220" width="150" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="7wn4WAuL4QtyOJo-zdiJ-6" value="" style="endArrow=classic;html=1;entryX=-0.006;entryY=0.172;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="7wn4WAuL4QtyOJo-zdiJ-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="230" y="205" as="sourcePoint" />
+            <mxPoint x="280" y="155" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7wn4WAuL4QtyOJo-zdiJ-7" value="" style="endArrow=classic;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" target="7wn4WAuL4QtyOJo-zdiJ-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="230" y="300" as="sourcePoint" />
+            <mxPoint x="299.1" y="328.76" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7wn4WAuL4QtyOJo-zdiJ-8" value="Backlog&lt;br&gt;(BL)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="510" y="220" width="150" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="7wn4WAuL4QtyOJo-zdiJ-10" value="Sprint&lt;br&gt;(S)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="510" y="410" width="150" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="7wn4WAuL4QtyOJo-zdiJ-11" value="" style="endArrow=classic;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.75;exitDx=0;exitDy=0;" edge="1" parent="1" source="7wn4WAuL4QtyOJo-zdiJ-2" target="7wn4WAuL4QtyOJo-zdiJ-10">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="220" y="350" as="sourcePoint" />
+            <mxPoint x="290" y="330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
