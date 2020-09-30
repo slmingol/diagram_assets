@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-09-30T03:28:45.326Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="lMfP4quZ7qy2fXC9_0ZY" version="13.7.6" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-30T03:30:11.029Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="qtG7Q7BPVbHSXwI75Pwd" version="13.7.6" type="github">
   <diagram id="-Uzkl90RU2_1hvd23aKB" name="Page-1">
     <mxGraphModel dx="1056" dy="843" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -7,7 +7,7 @@
         <mxCell id="7wn4WAuL4QtyOJo-zdiJ-19" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;align=left;fillColor=#f5f5f5;dashed=1;dashPattern=1 4;strokeWidth=3;strokeColor=#666666;fontColor=#333333;shadow=1;glass=0;sketch=1;opacity=70;" parent="1" vertex="1">
           <mxGeometry x="600" y="190" width="200" height="370" as="geometry" />
         </mxCell>
-        <mxCell id="7wn4WAuL4QtyOJo-zdiJ-18" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;align=left;fillColor=#dae8fc;dashed=1;arcSize=10;strokeWidth=3;dashPattern=1 4;shadow=1;glass=0;sketch=1;strokeColor=#666666;opacity=50;" parent="1" vertex="1">
+        <mxCell id="7wn4WAuL4QtyOJo-zdiJ-18" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;align=left;dashed=1;arcSize=10;strokeWidth=3;dashPattern=1 4;shadow=1;glass=0;sketch=1;opacity=50;strokeColor=#666666;fillColor=#CCCCFF;" parent="1" vertex="1">
           <mxGeometry x="30" y="70" width="510" height="390" as="geometry" />
         </mxCell>
         <mxCell id="7wn4WAuL4QtyOJo-zdiJ-1" value="Parking Lot&lt;br&gt;(PL)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
