@@ -20,6 +20,6 @@
 
 
 ## Docker Logging
-- [Docker Logging](architecture/docker_logging.png)
+- ![Docker Logging](architecture/docker_logging.png)
 
 
