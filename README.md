@@ -11,12 +11,15 @@
 - ![ES Stack](architecture/elasticsearch/elastic%20stack%20logging_transbg.png)
 
 
-
 ## MySQL DB Query Logging to Elastic Stack Diagram
 - ![MySQL_Logging_Arch](architecture/elasticsearch/mysql_db_es_arch.png)
 
 
 ## Triaging Problems
 - [triaging_problems](triaging_problems)
+
+
+## Docker Logging
+- [Docker Logging](architecture/docker_logging.png)
 
 
