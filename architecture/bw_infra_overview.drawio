@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-14T05:19:01.711Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="1x4tuq6Zi1GQIdhEhk0n" version="15.7.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-14T05:22:30.113Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="u5BZkJKZ02TBsPQjz7L0" version="15.7.3" type="github">
   <diagram id="242WrnPpueNoaaV4P62U" name="Page-1">
     <mxGraphModel dx="786" dy="1129" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -81,6 +81,9 @@
         </mxCell>
         <mxCell id="MORbc10rPdh_s_zfttG--1" value="&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;https://thenewstack.io/how-the-sre-experience-is-changing-with-cloud-native/&quot;&gt;https://thenewstack.io/how-the-sre-experience-is-changing-with-cloud-native/&lt;/a&gt;&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;" style="whiteSpace=wrap;html=1;dashed=1;fontSize=12;fillColor=default;gradientColor=none;gradientDirection=east;align=left;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="140" y="800" width="520" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="MORbc10rPdh_s_zfttG--2" value="&lt;span style=&quot;text-align: left&quot;&gt;SRE&lt;/span&gt;&lt;sub style=&quot;text-align: left&quot;&gt;&lt;font size=&quot;1&quot;&gt;&lt;b&gt;E&lt;/b&gt;&lt;/font&gt;&lt;/sub&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="400" y="565" width="40" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
