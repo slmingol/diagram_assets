@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-25T15:53:44.120Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.109 Safari/537.36" etag="PNs1vYBMG5V2UXYS5X_t" version="16.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-25T16:09:00.287Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.109 Safari/537.36" etag="6Ftp44VwIeV8mF28DD8N" version="16.6.4" type="github">
   <diagram id="SFhN1avuoICirvUGMh-_" name="Page-1">
     <mxGraphModel dx="786" dy="1129" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -64,11 +64,8 @@
         <mxCell id="7lrIo7HgWKwE6py6VGCn-28" value="&lt;b&gt;LAX&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;labelPadding=0;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;" parent="1" vertex="1">
           <mxGeometry x="425" y="810" width="210" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="PBb1DFynOF-In5bDilbo-1" value="vRealize" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="100" y="510" width="70" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="PBb1DFynOF-In5bDilbo-3" value="VCSA" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="100" y="530" width="70" height="20" as="geometry" />
+        <mxCell id="PBb1DFynOF-In5bDilbo-1" value="vRealize Auto." style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="160" y="540" width="120" height="20" as="geometry" />
         </mxCell>
         <mxCell id="PBb1DFynOF-In5bDilbo-4" value="VCSA" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="75" y="285" width="70" height="20" as="geometry" />
@@ -84,6 +81,33 @@
         </mxCell>
         <mxCell id="PBb1DFynOF-In5bDilbo-8" value="VCSA" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="635" y="810" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="PBb1DFynOF-In5bDilbo-10" value="vRealize Ops" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="160" y="560" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="PBb1DFynOF-In5bDilbo-11" value="vROps Remote Collector" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="25" y="400" width="120" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="PBb1DFynOF-In5bDilbo-12" value="vROps Remote Collector" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="625" y="400" width="120" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="PBb1DFynOF-In5bDilbo-13" value="vROps Remote Collector" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="35" y="935" width="120" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="PBb1DFynOF-In5bDilbo-14" value="vROps Remote Collector" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="35" y="410" width="120" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="PBb1DFynOF-In5bDilbo-16" value="vROps Remote Collector" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="635" y="410" width="120" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="PBb1DFynOF-In5bDilbo-17" value="vROps Remote Collector" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="45" y="945" width="120" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="PBb1DFynOF-In5bDilbo-18" value="vROps Remote Collector" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="635" y="925" width="120" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="PBb1DFynOF-In5bDilbo-19" value="vROps Remote Collector" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="645" y="935" width="120" height="35" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
