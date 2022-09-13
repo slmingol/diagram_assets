@@ -1,1 +1,74 @@
-<mxfile host="app.diagrams.net" modified="2022-09-13T14:01:58.014Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" version="15.9.1" etag="bQvMRxClvtoNkdEObD6f" type="github"><diagram id="TCDswJjDwNzpMDkBt3JM">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-09-13T14:22:54.635Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="a3xKwXQ3o7P_5IV14_-4" version="15.9.1" type="github">
+  <diagram id="TCDswJjDwNzpMDkBt3JM" name="Page-1">
+    <mxGraphModel dx="1147" dy="769" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="CugYbbwGqNb5f2R3cSzR-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CugYbbwGqNb5f2R3cSzR-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="330" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CugYbbwGqNb5f2R3cSzR-1" value="vServer (IP)&lt;br&gt;&lt;br&gt;192.168.112.37" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="270" y="90" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CugYbbwGqNb5f2R3cSzR-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CugYbbwGqNb5f2R3cSzR-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="600" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CugYbbwGqNb5f2R3cSzR-2" value="vServer (IP)&lt;br&gt;&lt;br&gt;192.168.112.66" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="540" y="90" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CugYbbwGqNb5f2R3cSzR-3" value="&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250) ; display: inline ; float: none&quot;&gt;*&lt;/span&gt;&lt;a id=&quot;&quot; title=&quot;&quot; target=&quot;&quot; class=&quot;&quot; href=&quot;https://lb-01a.lab1.bwnet.us/tmui/Control/jspmap/tmui/locallb/virtual_server/properties.jsp?name=/platform/star.apps.app1.lab1.ocp.bandwidth.com_vs_443&quot; style=&quot;font-size: 12px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; color: rgb(51 , 102 , 204) ; cursor: pointer ; font-family: &amp;#34;freesans&amp;#34; , &amp;#34;arial&amp;#34; , &amp;#34;helvetica&amp;#34; , sans-serif ; text-align: -webkit-left ; background-color: rgb(255 , 255 , 255)&quot;&gt;.apps.app1.lab1.ocp.bandwidth.com&lt;/a&gt;&amp;nbsp;(OCP4)" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="60" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CugYbbwGqNb5f2R3cSzR-4" value="*&lt;a id=&quot;&quot; title=&quot;&quot; target=&quot;&quot; class=&quot;&quot; href=&quot;https://lb-01a.lab1.bwnet.us/tmui/Control/jspmap/tmui/locallb/virtual_server/properties.jsp?name=/Common/star.apps.lab1.ocp.bandwidth.com_vs_443&quot; style=&quot;font-size: 12px ; text-decoration: underline ; color: rgb(51 , 102 , 204) ; cursor: pointer ; font-family: &amp;#34;freesans&amp;#34; , &amp;#34;arial&amp;#34; , &amp;#34;helvetica&amp;#34; , sans-serif ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: -webkit-left ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(247 , 246 , 245)&quot;&gt;.apps.lab1.ocp.bandwidth.com&lt;/a&gt;&amp;nbsp;(OCP3)" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="60" width="250" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CugYbbwGqNb5f2R3cSzR-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="CugYbbwGqNb5f2R3cSzR-6" target="CugYbbwGqNb5f2R3cSzR-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CugYbbwGqNb5f2R3cSzR-6" value="Pool" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="270" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CugYbbwGqNb5f2R3cSzR-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="CugYbbwGqNb5f2R3cSzR-8" target="CugYbbwGqNb5f2R3cSzR-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CugYbbwGqNb5f2R3cSzR-8" value="Pool" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="540" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CugYbbwGqNb5f2R3cSzR-9" value="ocp-infra-01a (VM)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="265" y="390" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CugYbbwGqNb5f2R3cSzR-10" value="ocp-infra-01a (VM)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="275" y="400" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CugYbbwGqNb5f2R3cSzR-11" value="ocp-infra-01a &lt;br&gt;(OC3 VM)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="285" y="410" width="130" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="CugYbbwGqNb5f2R3cSzR-14" value="ocp-infra-01a (VM)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="535" y="390" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CugYbbwGqNb5f2R3cSzR-15" value="ocp-infra-01a (VM)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="545" y="400" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CugYbbwGqNb5f2R3cSzR-16" value="ocp-infra-01a &lt;br&gt;(OC4 VM)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="555" y="410" width="130" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="CugYbbwGqNb5f2R3cSzR-18" value="HAProxy Pod" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="285" y="480" width="55" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CugYbbwGqNb5f2R3cSzR-19" value="HAProxy Pod" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="555" y="480" width="55" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CugYbbwGqNb5f2R3cSzR-21" value="&lt;meta charset=&quot;utf-8&quot;&gt;&lt;a id=&quot;&quot; title=&quot;&quot; target=&quot;&quot; class=&quot;&quot; href=&quot;https://lb-01a.lab1.bwnet.us/tmui/Control/jspmap/tmui/locallb/pool/properties.jsp?name=/Common/apps.lab1.ocp.bandwidth.com_pool_443&quot; style=&quot;font-size: 12px; text-decoration: underline; color: rgb(51, 102, 204); cursor: pointer; font-family: freesans, arial, helvetica, sans-serif; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: -webkit-left; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(255, 255, 255);&quot;&gt;apps.lab1.ocp.bandwidth.com_pool_443&lt;/a&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="210" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CugYbbwGqNb5f2R3cSzR-22" value="&lt;meta charset=&quot;utf-8&quot;&gt;&lt;a id=&quot;&quot; title=&quot;&quot; target=&quot;&quot; class=&quot;&quot; href=&quot;https://lb-01a.lab1.bwnet.us/tmui/Control/jspmap/tmui/locallb/pool/properties.jsp?name=/platform/apps.app1.lab1.ocp.bandwidth.com_pool_443&quot; style=&quot;font-size: 12px; text-decoration: underline; color: rgb(51, 102, 204); cursor: pointer; font-family: freesans, arial, helvetica, sans-serif; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: -webkit-left; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(255, 255, 255);&quot;&gt;apps.app1.lab1.ocp.bandwidth.com_pool_443&lt;/a&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="210" width="270" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
