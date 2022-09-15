@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-09-13T17:10:34.724Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="OZuGwqGJ-1aPtjDVKqaz" version="20.3.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-15T15:26:17.382Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="5oTo7DdvQCEnbGTfgnnk" version="20.3.1" type="github">
   <diagram id="TCDswJjDwNzpMDkBt3JM" name="Page-1">
-    <mxGraphModel dx="819" dy="712" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="786" dy="1129" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -131,25 +131,31 @@
         <mxCell id="CugYbbwGqNb5f2R3cSzR-37" value="&lt;font style=&quot;font-size: 12px&quot;&gt;&lt;b&gt;F5 HA Cluster Pair&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=11;" parent="1" vertex="1">
           <mxGeometry x="200" y="360" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="V2OBl8z_iix-b06xDpgp-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="V2OBl8z_iix-b06xDpgp-1" target="V2OBl8z_iix-b06xDpgp-2">
+        <mxCell id="V2OBl8z_iix-b06xDpgp-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="V2OBl8z_iix-b06xDpgp-1" target="V2OBl8z_iix-b06xDpgp-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="V2OBl8z_iix-b06xDpgp-1" value="Cloudflare" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="V2OBl8z_iix-b06xDpgp-1" value="Cloudflare" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="390" y="160" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="V2OBl8z_iix-b06xDpgp-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.453;entryY=-0.004;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="V2OBl8z_iix-b06xDpgp-2" target="CugYbbwGqNb5f2R3cSzR-36">
+        <mxCell id="V2OBl8z_iix-b06xDpgp-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.453;entryY=-0.004;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="V2OBl8z_iix-b06xDpgp-2" target="CugYbbwGqNb5f2R3cSzR-36" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="V2OBl8z_iix-b06xDpgp-2" value="Firewall" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+        <mxCell id="V2OBl8z_iix-b06xDpgp-2" value="Firewall" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="390" y="270" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="V2OBl8z_iix-b06xDpgp-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="V2OBl8z_iix-b06xDpgp-1">
+        <mxCell id="V2OBl8z_iix-b06xDpgp-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" target="V2OBl8z_iix-b06xDpgp-1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="450" y="110" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="V2OBl8z_iix-b06xDpgp-8" value="host.bandwidth.com&lt;br&gt;" style="text;html=1;strokeColor=#FF3333;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;" vertex="1" parent="1">
+        <mxCell id="V2OBl8z_iix-b06xDpgp-8" value="host.bandwidth.com&lt;br&gt;" style="text;html=1;strokeColor=#FF3333;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="390" y="70" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="tgkN9TUTbmj1QjbPmG68-1" value="&lt;b&gt;Public IP (Internet)&lt;/b&gt;" style="text;html=1;strokeColor=default;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="240" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="tgkN9TUTbmj1QjbPmG68-3" value="&lt;b&gt;VIP (internal IP)&lt;/b&gt;" style="text;html=1;strokeColor=default;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="350" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
