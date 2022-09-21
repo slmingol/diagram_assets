@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-21T19:43:13.066Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="Aad_Tb1py3jMfFhvEFQW" version="20.3.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-21T19:46:39.985Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="KNqpMB5DIze_6YlZl5Kc" version="20.3.1" type="github">
   <diagram id="TCDswJjDwNzpMDkBt3JM" name="Page-1">
     <mxGraphModel dx="987" dy="1129" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -183,8 +183,17 @@
         <mxCell id="fPaI-wsB4CBtlUSUe05H-14" value="&lt;b&gt;1:1 NAT Rule&lt;/b&gt;" style="text;html=1;strokeColor=default;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="290" y="285" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="DG2PM-5Kdm3yRgGzDGDX-1" value="Active" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#b85450;fillColor=#f8cecc;fontSize=9;" vertex="1" parent="1">
-          <mxGeometry x="50" y="530" width="50" height="20" as="geometry" />
+        <mxCell id="DG2PM-5Kdm3yRgGzDGDX-4" value="Active" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="140" y="710" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="DG2PM-5Kdm3yRgGzDGDX-5" value="Active" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="490" y="710" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="DG2PM-5Kdm3yRgGzDGDX-6" value="Standby" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="1">
+          <mxGeometry x="320" y="710" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="DG2PM-5Kdm3yRgGzDGDX-7" value="Standby" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="1">
+          <mxGeometry x="670" y="710" width="40" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
