@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-23T21:22:02.006Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="BgHB-6R1tzb-WhERWIT9" version="20.3.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-23T21:22:20.942Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="PaSU-UqZwwRrNb0tKxbX" version="20.3.3" type="github">
   <diagram id="TCDswJjDwNzpMDkBt3JM" name="Page-1">
     <mxGraphModel dx="1018" dy="769" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -16,7 +16,7 @@
           <mxGeometry x="395" y="430" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="CugYbbwGqNb5f2R3cSzR-3" value="&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;quot;helvetica&amp;quot; ; font-size: 12px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250) ; display: inline ; float: none&quot;&gt;*&lt;/span&gt;&lt;a id=&quot;&quot; title=&quot;&quot; target=&quot;&quot; class=&quot;&quot; href=&quot;https://lb-01a.lab1.bwnet.us/tmui/Control/jspmap/tmui/locallb/virtual_server/properties.jsp?name=/platform/star.apps.app1.lab1.ocp.bandwidth.com_vs_443&quot; style=&quot;font-size: 12px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; color: rgb(51 , 102 , 204) ; cursor: pointer ; font-family: &amp;quot;freesans&amp;quot; , &amp;quot;arial&amp;quot; , &amp;quot;helvetica&amp;quot; , sans-serif ; text-align: -webkit-left ; background-color: rgb(255 , 255 , 255)&quot;&gt;.apps.app1.&amp;lt;site&amp;gt;.ocp.bandwidth.com&lt;/a&gt;" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="335" y="400" width="240" height="30" as="geometry" />
+          <mxGeometry x="344" y="400" width="240" height="30" as="geometry" />
         </mxCell>
         <mxCell id="CugYbbwGqNb5f2R3cSzR-17" value="Alpha" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" parent="1" source="CugYbbwGqNb5f2R3cSzR-8" target="CugYbbwGqNb5f2R3cSzR-14" edge="1">
           <mxGeometry relative="1" as="geometry" />
